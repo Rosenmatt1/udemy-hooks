@@ -1,5 +1,5 @@
 import React from 'react'
-import useResources from './useResouces'
+import useResources from './useResources'
 
 const UserList = () => {
   const users = useResources('users')
